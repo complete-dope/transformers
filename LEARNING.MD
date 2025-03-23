@@ -1,0 +1,2 @@
+torch View vs transpose 
+
