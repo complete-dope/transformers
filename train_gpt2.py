@@ -161,8 +161,7 @@ def train():
 
 '''
 # lets build MLA ( Multi-Head Latent Attention ) 
-
-What if I increase the context window !! 
+the dimensions will increase dramatically 
 '''
 
 

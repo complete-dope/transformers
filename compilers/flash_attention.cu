@@ -1,0 +1,1 @@
+// the flash attention is a novel concept on how the gpu memory works and the best way to implement that memory piece in a faster attention manner ( so lets code it on 29th march 2025 )!! Chat I will be back soon !! 
